@@ -2,7 +2,6 @@
 
 1. There is no WiFi where I am. That means I cannot access any digital services.
 - [[ ]] True
-[[?]] Explanation: Digital services can be deployed on a mobile phone using your data plan.
 - [[X]] False
 [[?]] Explanation: Digital services can be deployed on a mobile phone using your data plan.
 
