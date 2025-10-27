@@ -3,7 +3,7 @@
 1. There is no WiFi where I am. That means I cannot access any digital services.
 - [[ ]] True
 - [[X]] False
-[[?]] Explanation: Digital services can be deployed on a mobile phone using your data plan.
+[[?]] Digital services can be deployed on a mobile phone using your data plan.
 
 
 
@@ -11,4 +11,4 @@
 - [[ ]] True
 - [[X]] False
 
-[[?]] Explanation: As a grade-school student, you could access a teacher’s webpage to find homework for that day. That’s a digital service! You might also use websites like Study Island or Khan Academy. These are digital services as well. You’re able to access information and complete “transactions” in a digital manner.
+[[?]] As a grade-school student, you could access a teacher’s webpage to find homework for that day. That’s a digital service! You might also use websites like Study Island or Khan Academy. These are digital services as well. You’re able to access information and complete “transactions” in a digital manner.
