@@ -2,9 +2,11 @@
 
 1. There is no WiFi where I am. That means I cannot access any digital services.
 - [[ ]] True
-- [[X]] False
-
 [[?]] Explanation: Digital services can be deployed on a mobile phone using your data plan.
+- [[X]] False
+[[?]] Explanation: Digital services can be deployed on a mobile phone using your data plan.
+
+
 
 2. It sounds like only adults can be end users of digital services since it's for finding important information or filling out forms. 
 - [[ ]] True
