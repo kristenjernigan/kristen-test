@@ -6,7 +6,7 @@ Which of the following is being portrayed in the conversation above?
 - [[X]] User experience design
 - [[ ]] Content development
 - [[ ]] Quality assurance testing
-[[?]] In this humorous portrayal, “people friendly” refers to the User Experience Design. This involves visual design, interaction design, and user interface design to make things as intuitive as possible for the end user. The user experience designers work with the front-end software developers to develop the front-end functionality and user interface to support the vision set forth by the organization.
+  [[?]] In this humorous portrayal, “people friendly” refers to the User Experience Design. This involves visual design, interaction design, and user interface design to make things as intuitive as possible for the end user. The user experience designers work with the front-end software developers to develop the front-end functionality and user interface to support the vision set forth by the organization.
 
 1. There is no WiFi where I am. That means I cannot access any digital services.
 - [[ ]] True
