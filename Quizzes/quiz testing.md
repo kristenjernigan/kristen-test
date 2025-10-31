@@ -1,9 +1,59 @@
 # Quiz Testing
 
-| Situation | Description |
-|------------|-------------|
-| **1. Who is my customer?** | You’re working on a digital services procurement and need to answer the question, “Who is my customer?” That’s easy, you think — it’s the program office or the program owner, the visionary and champion for the product or service. But wait a minute. Is that always the case? Are they the end users who will use the product or service? For instance, are they the individual entering data into a system, the citizen using your website to learn about energy-efficient products, or the government team that will primarily use this new tool? The answer to this question will drive how you approach the acquisition. End users should drive your technical and design decisions, so get them involved in the process! This sounds simple in theory. However, it’s not so simple in execution, when you have other stakeholders—budget, acquisition policy, CIO/IT, as well as vendors and contractors—who feel strongly about the design and execution of the product or service. |
-| **2. The late stakeholder** | You’ve spent months putting together an acquisition plan and getting various stakeholders to review and provide feedback along the way. All of a sudden, a new stakeholder—one you hadn’t thought to include to date—provides feedback that requires you to significantly adjust your approach. Frustrated, you think, “If only I had thought to get them on board and involved earlier on, we could’ve had a better product and saved time and money.” We can probably all relate to a time (or times!) when this has happened and the resulting frustration we felt. |
+1. Which of the following best describes the purpose of identifying constraints before developing an acquisition strategy?
+
+- [[ ]] To eliminate any need for market research  
+- [[ ]] To make the process longer but more detailed  
+- [[x]] To understand boundaries that inform realistic, aligned strategies  
+- [[ ]] To determine vendor preferences before writing the solicitation
+[[?]] Identifying constraints helps teams stay aligned with practical boundaries and craft realistic strategies.
+
+2. True or False? Constraints should only be identified for high-risk or large-scale procurements.
+
+- [[x]] False
+- [[ ]] True
+[[?]] Constraints should be identified for all acquisition efforts, regardless of size, because they guide sound strategy development.
+
+3. Which of the following are constraints that could impact your strategy? *(Select all that apply.)*
+
+- [[ ]] Vendor past performance ratings  
+- [[x]] Length of contractor onboarding  
+- [[x]] Type and timing of available funding  
+- [[x]] Required security authorizations (e.g., ATO)  
+- [[ ]] Number of vendors on the GSA Schedule
+[[?]] Constraints often involve time, funding, approvals, and readiness factors—not just vendor history.
+
+4. Why is treating constraint discovery like a checklist instead of a conversation risky?
+
+- [[ ]] It wastes too much time  
+- [[ ]] It makes it harder to meet compliance rules  
+- [[x]] It misses the trust- and alignment-building benefits of team discussion  
+- [[ ]] It only works if legal is in the room
+[[?]] Collaborative conversations surface practical insights and build alignment across stakeholders.
+
+5. Scenario
+
+You’re planning a new digital services procurement. During early discovery, you learn that:
+- Your COR has limited availability  
+- Contractor onboarding takes 60–90 days  
+- There’s a possibility of reengineering outdated business processes
+
+What should you do? (Choose the BEST option)
+
+- [[ ]] Ignore these constraints—they’ll sort themselves out during evaluation.  
+- [[ ]] Choose a firm-fixed-price contract now and adjust if needed.
+- [[x]] Build in a phased approach, include delivery support services, and engage leadership on process flexibility.  
+- [[ ]] Push back the solicitation until these constraints are no longer relevant.
+[[?]] A phased, proactive approach reduces risk and supports agility as constraints are addressed over time.
+
+6. Which of the following benefits come from defining constraints early? *(Select all that apply.)*
+
+- [[x]] Ability to shape a realistic, achievable strategy  
+- [[x]] Avoid mid-process surprises or delays  
+- [[ ]] Ensure you award to the lowest bidder  
+- [[x]] Support more defensible, mission-aligned decisions  
+- [[x]] Strengthen relationships with policy, legal, and IT teams
+[[?]] Early constraint discovery builds stronger strategies and relationships—critical for digital service acquisitions.
 
 
 
