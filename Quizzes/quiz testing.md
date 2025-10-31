@@ -1,12 +1,53 @@
 # Quiz Testing
 
-Which of the following is being portrayed in the conversation above?
+Question 1
 
-- [[ ]] Software design
-- [[X]] User experience design
-- [[ ]] Content development
-- [[ ]] Quality assurance testing
-  [[?]] In this humorous portrayal, “people friendly” refers to the User Experience Design. This involves visual design, interaction design, and user interface design to make things as intuitive as possible for the end user. The user experience designers work with the front-end software developers to develop the front-end functionality and user interface to support the vision set forth by the organization.
+Which approach should you prioritize first?
+
+[[ ]] Use DevSecOps to begin coding and automating deployments immediately.
+[[X]] Apply HCD practices to understand Veteran needs and gather early feedback.
+[[ ]] Begin procurement for security and operations tools.
+[[?]] Understanding user needs through HCD should come first. DevSecOps supports the delivery once the team knows what to build and why.
+
+
+
+
+Question 1
+
+**Your agency needs to replace an outdated legacy system, causing usability issues for staff and the public. The scope isn’t fully defined yet, and stakeholder needs are still being explored. What’s the best approach?**
+
+- [[ ]] Use a waterfall process to define every requirement up front
+- [[x]] Use Agile to deliver value in stages while gathering feedback
+- [[ ]] Purchase a commercial off-the-shelf solution without further research
+[[?]] Since the project scope is evolving, Agile is best for delivering in stages while gathering input.
+
+Question 2
+
+**You’re managing a software development contract with multiple vendor teams. Which Agile practice will help ensure visibility into progress and performance?**
+
+- [[ ]]  Require weekly email updates  
+- [[x]] Schedule a sprint review every 2 weeks  
+- [[ ]] Wait for the final product demo
+[[?]] Email updates and final demos don’t offer the same transparency and collaboration as sprint reviews.
+
+Question 3
+
+**Which of the following best describes a Minimum Viable Product (MVP)?**
+
+- [[ ]] The final, fully-featured product
+- [[ ]] A product prototype used only for internal 
+- [[x]] A basic version with essential features to test value quickly
+[[?]] MVPs aren’t prototypes or final products—they’re a smart way to test value early.
+
+Question 4
+
+**Which role primarily manages the product backlog and prioritizes user needs?**
+
+- [[ ]] Scrum Master   
+- [[x]] Product Owner     
+- [[ ]] Developer
+[[?]] While Scrum Masters support team flow, the Product Owner sets priorities and gathers requirements.
+
 
 1. There is no WiFi where I am. That means I cannot access any digital services.
 - [[ ]] True
