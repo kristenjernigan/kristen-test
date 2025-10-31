@@ -1,13 +1,9 @@
 # Quiz Testing
 
-Question 1
-
-Which approach should you prioritize first?
-
-[[ ]] Use DevSecOps to begin coding and automating deployments immediately.
-[[X]] Apply HCD practices to understand Veteran needs and gather early feedback.
-[[ ]] Begin procurement for security and operations tools.
-[[?]] Understanding user needs through HCD should come first. DevSecOps supports the delivery once the team knows what to build and why.
+| Situation | Description |
+|------------|-------------|
+| **1. Who is my customer?** | You’re working on a digital services procurement and need to answer the question, “Who is my customer?” That’s easy, you think — it’s the program office or the program owner, the visionary and champion for the product or service. But wait a minute. Is that always the case? Are they the end users who will use the product or service? For instance, are they the individual entering data into a system, the citizen using your website to learn about energy-efficient products, or the government team that will primarily use this new tool? The answer to this question will drive how you approach the acquisition. End users should drive your technical and design decisions, so get them involved in the process! This sounds simple in theory. However, it’s not so simple in execution, when you have other stakeholders—budget, acquisition policy, CIO/IT, as well as vendors and contractors—who feel strongly about the design and execution of the product or service. |
+| **2. The late stakeholder** | You’ve spent months putting together an acquisition plan and getting various stakeholders to review and provide feedback along the way. All of a sudden, a new stakeholder—one you hadn’t thought to include to date—provides feedback that requires you to significantly adjust your approach. Frustrated, you think, “If only I had thought to get them on board and involved earlier on, we could’ve had a better product and saved time and money.” We can probably all relate to a time (or times!) when this has happened and the resulting frustration we felt. |
 
 
 
