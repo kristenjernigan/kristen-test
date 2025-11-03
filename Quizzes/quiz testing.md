@@ -60,8 +60,10 @@ Choose all that apply.
 [[?]] Early negotiation builds shared understanding and helps align expectations.
 
 
+---
 
 The following two questions are for your personal reflection. No input is necessary here. 
+
 5\. Reflection prompt
 
 **Think of a time when expectations weren’t clear during a collaboration:**
