@@ -9,7 +9,7 @@ In digital service acquisitions, it’s usually a waste of time to open negotiat
 - [[x]] False
 [[?]] Early negotiations help clarify assumptions, build trust, and shape stronger outcomes.
 
-2\. Scenario-Based Multiple Choice
+2\. Scenario-based multiple choice
 
 Choose the best response. 
 
@@ -22,7 +22,7 @@ During a code challenge, a top vendor assumed and proposed the use of a commerci
 - [[ ]] Ignore it and continue
 [[?]] Clarifying assumptions and offering revision opportunities supports a fair and informed evaluation process.
 
-3\. Match the Terms
+3\. Match the terms
 
 Match each term to its correct definition by selecting the correct letter for each number.
 
@@ -31,38 +31,31 @@ Match each term to its correct definition by selecting the correct letter for ea
 3. Negotiations  
 4. Best Value
 
-A. Discussions that allow vendors to revise proposals
-B. Limited exchanges to fix minor errors (no proposal changes)
-C. Offer that provides the greatest advantage based on price and technical merit
-D. Exchanges to determine competitive range (no proposal changes)
+A. Discussions that allow vendors to revise proposals <br>
+B. Limited exchanges to fix minor errors (no proposal changes)<br>
+C. Offer that provides the greatest advantage based on price and technical merit<br>
+D. Exchanges to determine competitive range (no proposal changes)<br>
 
 - [[A] [B] [C] [D]]
-- [ ( ) (X) ( ) ( ) ]  Clarifications 
-- [ ( ) ( ) ( ) (X) ]  Communications
-- [ (X) ( ) ( ) ( ) ]  Negotiations
-- [ ( ) ( ) (X) ( ) ]  Best Value
-[[?]]Think about the purpose of each interaction in the procurement process.  
-> - *Clarifications* are meant to fix small errors without changing proposals.  
-> - *Communications* help determine who is in the competitive range.  
-> - *Negotiations* allow vendors to revise and improve their proposals.  
-> - *Best Value* is about selecting the offer that balances price and quality for the greatest overall advantage.  
+- [ ( ) (X) ( ) ( ) ]  1. Clarifications 
+- [ ( ) ( ) ( ) (X) ]  2. Communications
+- [ (X) ( ) ( ) ( ) ]  3. Negotiations
+- [ ( ) ( ) (X) ( ) ]  4. Best Value
+[[?]]Think about the purpose of each interaction in the procurement process.  > - *Clarifications* are meant to fix small errors without changing proposals.  > - *Communications* help determine who is in the competitive range.  > - *Negotiations* allow vendors to revise and improve their proposals.  > - *Best Value* is about selecting the offer that balances price and quality for the greatest overall advantage.  
 
 
 
 
 
-4\. Reflection Prompt
+4\. Reflection prompt
 
 **Think of a time when expectations weren’t clear during a collaboration:**
 
 - What happened as a result?  
 - How might early communication or negotiation have helped?
-
-*Your response:*  *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 [[?]]
 
-5\. Select All That Apply
-
+5\. Select all that apply
 **What are the benefits of negotiating early in digital services procurements?**
 Choose all that apply.
 
@@ -73,16 +66,10 @@ Choose all that apply.
 - [[ ]] Avoids needing any evaluation
 [[?]] Early negotiation builds shared understanding and helps align expectations.
 
-6\. Short Answer – Reflection
-
+6\. Reflection prompt
 **Prompt:**  
 Your team is preparing for negotiations. Based on what you’ve learned, name *two things* the team should do before the session.
 
-Your Response:
-
-1\.  *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
-
-2\.  *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 [[?]]
 
 
