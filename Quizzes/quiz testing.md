@@ -5,62 +5,37 @@
 **Statement:**  
 In digital service acquisitions, it’s usually a waste of time to open negotiations with vendors early in the process.
 
-- [ ] True  
-- [x] False
-
-> Correct! Early negotiations help clarify assumptions, build trust, and shape stronger outcomes.
+- [[ ]] True  
+- [[x]] False
+[[?]] Early negotiations help clarify assumptions, build trust, and shape stronger outcomes.
 
 2\. Scenario-Based Multiple Choice
+
+Choose the best response. 
 
 **Question:**  
 During a code challenge, a top vendor assumed and proposed the use of a commercial cloud service that doesn’t meet FedRAMP requirements. What should the agency do next?
 
-- [ ] Eliminate the vendor immediately  
-- [ ] Ask for a new full proposal  
-- [x] Open discussions to clarify assumptions and allow revision  
-- [ ] Ignore it and continue
+- [[ ]] Eliminate the vendor immediately  
+- [[ ]] Ask for a new full proposal  
+- [[x]] Open discussions to clarify assumptions and allow revision  
+- [[ ]] Ignore it and continue
+[[?]] Clarifying assumptions and offering revision opportunities supports a fair and informed evaluation process.
 
-> Correct! Clarifying assumptions and offering revision opportunities supports a fair and informed evaluation process.
+3.\ Match the Terms
 
-3\. Match the Terms 
-
-Match each term to its correct definition by writing the matching letter next to the number.
+Match each term to its correct definition by selecting the correct letter for each number.
 
 **Terms:**
 
-1. Clarifications  
-2. Communications  
-3. Negotiations  
-4. Best Value
+| # | Term | Definition |
+|---|------|-------------|
+| 1 | Clarifications | {{B}} A. Discussions that allow vendors to revise proposals <br> {{X}} B. Limited exchanges to fix minor errors (no proposal changes) <br> {{ }} C. Offer that provides the greatest advantage based on price and technical merit <br> {{ }} D. Exchanges to determine competitive range (no proposal changes) |
+| 2 | Communications | {{ }} A. Discussions that allow vendors to revise proposals <br> {{ }} B. Limited exchanges to fix minor errors (no proposal changes) <br> {{ }} C. Offer that provides the greatest advantage based on price and technical merit <br> {{X}} D. Exchanges to determine competitive range (no proposal changes) |
+| 3 | Negotiations | {{X}} A. Discussions that allow vendors to revise proposals <br> {{ }} B. Limited exchanges to fix minor errors (no proposal changes) <br> {{ }} C. Offer that provides the greatest advantage based on price and technical merit <br> {{ }} D. Exchanges to determine competitive range (no proposal changes) |
+| 4 | Best Value | {{ }} A. Discussions that allow vendors to revise proposals <br> {{ }} B. Limited exchanges to fix minor errors (no proposal changes) <br> {{X}} C. Offer that provides the greatest advantage based on price and technical merit <br> {{ }} D. Exchanges to determine competitive range (no proposal changes) |
 
 
-**Definitions:**
-
-A. Discussions that allow vendors to revise proposals
-B. Limited exchanges to fix minor errors (no proposal changes)
-C. Offer that provides the greatest advantage based on price and technical merit
-D. Exchanges to determine competitive range (no proposal changes)
-
-
-**Your Answers:**
-
-1. ---
-
-2. ---
-
-3. ---
-
-4. ---
-
-Correct Answers:
-
-1. B
-
-2. D
-
-3. A
-
-4. C
 
 4\. Reflection Prompt
 
@@ -70,18 +45,19 @@ Correct Answers:
 - How might early communication or negotiation have helped?
 
 *Your response:*  *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
+[[?]]
 
 5\. Select All That Apply
 
 **What are the benefits of negotiating early in digital services procurements?**
+Choose all that apply.
 
-- [x] Prevents misunderstandings  
-- [ ] Automatically reduces price  
-- [x] Builds vendor trust  
-- [x] Helps clarify technical assumptions  
-- [ ] Avoids needing any evaluation
-
-> Correct! Early negotiation builds shared understanding and helps align expectations.
+- [[x]] Prevents misunderstandings  
+- [[ ]] Automatically reduces price  
+- [[x]] Builds vendor trust  
+- [[x]] Helps clarify technical assumptions  
+- [[ ]] Avoids needing any evaluation
+[[?]] Early negotiation builds shared understanding and helps align expectations.
 
 6\. Short Answer – Reflection
 
@@ -93,7 +69,10 @@ Your Response:
 1\.  *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
 2\.  *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
+[[?]]
 
+
+---
 
 Question 1
 
