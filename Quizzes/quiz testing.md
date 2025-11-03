@@ -46,16 +46,7 @@ D. Exchanges to determine competitive range (no proposal changes)<br>
 
 
 
-
-4\. Reflection prompt
-
-**Think of a time when expectations weren’t clear during a collaboration:**
-
-- What happened as a result?  
-- How might early communication or negotiation have helped?
-[[?]]
-
-5\. Select all that apply
+4\. Select all that apply
 
 **What are the benefits of negotiating early in digital services procurements?**
 
@@ -68,12 +59,22 @@ Choose all that apply.
 - [[ ]] Avoids needing any evaluation
 [[?]] Early negotiation builds shared understanding and helps align expectations.
 
+
+
+The following two questions are for your personal reflection. No input is necessary here. 
+5\. Reflection prompt
+
+**Think of a time when expectations weren’t clear during a collaboration:**
+
+- What happened as a result?  
+- How might early communication or negotiation have helped?
+
+
 6\. Reflection prompt
 **Prompt:**  
 
 Your team is preparing for negotiations. Based on what you’ve learned, name *two things* the team should do before the session.
 
-[[?]]
 
 
 ---
