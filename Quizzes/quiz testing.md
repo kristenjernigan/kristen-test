@@ -22,18 +22,34 @@ During a code challenge, a top vendor assumed and proposed the use of a commerci
 - [[ ]] Ignore it and continue
 [[?]] Clarifying assumptions and offering revision opportunities supports a fair and informed evaluation process.
 
-3.\ Match the Terms
+3\. Match the Terms
+
+### 3. Match the Terms
 
 Match each term to its correct definition by selecting the correct letter for each number.
 
-**Terms:**
+1. Clarifications  
+2. Communications  
+3. Negotiations  
+4. Best Value
 
-| # | Term | Definition |
-|---|------|-------------|
-| 1 | Clarifications | {{B}} A. Discussions that allow vendors to revise proposals <br> {{X}} B. Limited exchanges to fix minor errors (no proposal changes) <br> {{ }} C. Offer that provides the greatest advantage based on price and technical merit <br> {{ }} D. Exchanges to determine competitive range (no proposal changes) |
-| 2 | Communications | {{ }} A. Discussions that allow vendors to revise proposals <br> {{ }} B. Limited exchanges to fix minor errors (no proposal changes) <br> {{ }} C. Offer that provides the greatest advantage based on price and technical merit <br> {{X}} D. Exchanges to determine competitive range (no proposal changes) |
-| 3 | Negotiations | {{X}} A. Discussions that allow vendors to revise proposals <br> {{ }} B. Limited exchanges to fix minor errors (no proposal changes) <br> {{ }} C. Offer that provides the greatest advantage based on price and technical merit <br> {{ }} D. Exchanges to determine competitive range (no proposal changes) |
-| 4 | Best Value | {{ }} A. Discussions that allow vendors to revise proposals <br> {{ }} B. Limited exchanges to fix minor errors (no proposal changes) <br> {{X}} C. Offer that provides the greatest advantage based on price and technical merit <br> {{ }} D. Exchanges to determine competitive range (no proposal changes) |
+A. Discussions that allow vendors to revise proposals
+B. Limited exchanges to fix minor errors (no proposal changes)
+C. Offer that provides the greatest advantage based on price and technical merit
+D. Exchanges to determine competitive range (no proposal changes)
+
+- [[A] [B] [C] [D]]
+- [ ( ) (X) ( ) ( ) ]  Clarifications 
+- [ ( ) ( ) ( ) (X) ]  Communications
+- [ (X) ( ) ( ) ( ) ]  Negotiations
+- [ ( ) ( ) (X) ( ) ]  Best Value
+[[?]]Think about the purpose of each interaction in the procurement process.  
+> - *Clarifications* are meant to fix small errors without changing proposals.  
+> - *Communications* help determine who is in the competitive range.  
+> - *Negotiations* allow vendors to revise and improve their proposals.  
+> - *Best Value* is about selecting the offer that balances price and quality for the greatest overall advantage.  
+
+
 
 
 
