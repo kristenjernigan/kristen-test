@@ -41,7 +41,7 @@ D. Exchanges to determine competitive range (no proposal changes)<br>
 - [ ( ) ( ) ( ) (X) ]  2. Communications
 - [ (X) ( ) ( ) ( ) ]  3. Negotiations
 - [ ( ) ( ) (X) ( ) ]  4. Best Value
-[[?]]Think about the purpose of each interaction in the procurement process.  > - *Clarifications* are meant to fix small errors without changing proposals.  > - *Communications* help determine who is in the competitive range.  > - *Negotiations* allow vendors to revise and improve their proposals.  > - *Best Value* is about selecting the offer that balances price and quality for the greatest overall advantage.  
+[[?]]Think about the purpose of each interaction in the procurement process.  <br>- *Clarifications* are meant to fix small errors without changing proposals.  <br> - *Communications* help determine who is in the competitive range. <br> - *Negotiations* allow vendors to revise and improve their proposals.  <br> - *Best Value* is about selecting the offer that balances price and quality for the greatest overall advantage.  
 
 
 
@@ -56,7 +56,9 @@ D. Exchanges to determine competitive range (no proposal changes)<br>
 [[?]]
 
 5\. Select all that apply
+
 **What are the benefits of negotiating early in digital services procurements?**
+
 Choose all that apply.
 
 - [[x]] Prevents misunderstandings  
@@ -68,6 +70,7 @@ Choose all that apply.
 
 6\. Reflection prompt
 **Prompt:**  
+
 Your team is preparing for negotiations. Based on what you’ve learned, name *two things* the team should do before the session.
 
 [[?]]
