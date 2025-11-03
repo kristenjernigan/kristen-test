@@ -1,61 +1,98 @@
 # Quiz Testing
 
-1. Which of the following best describes the purpose of identifying constraints before developing an acquisition strategy?
+1\. True or False
 
-- [[ ]] To eliminate any need for market research  
-- [[ ]] To make the process longer but more detailed  
-- [[x]] To understand boundaries that inform realistic, aligned strategies  
-- [[ ]] To determine vendor preferences before writing the solicitation
-[[?]] Identifying constraints helps teams stay aligned with practical boundaries and craft realistic strategies.
+**Statement:**  
+In digital service acquisitions, it’s usually a waste of time to open negotiations with vendors early in the process.
 
-2. True or False? Constraints should only be identified for high-risk or large-scale procurements.
+- [ ] True  
+- [x] False
 
-- [[x]] False
-- [[ ]] True
-[[?]] Constraints should be identified for all acquisition efforts, regardless of size, because they guide sound strategy development.
+> Correct! Early negotiations help clarify assumptions, build trust, and shape stronger outcomes.
 
-3. Which of the following are constraints that could impact your strategy? *(Select all that apply.)*
+2\. Scenario-Based Multiple Choice
 
-- [[ ]] Vendor past performance ratings  
-- [[x]] Length of contractor onboarding  
-- [[x]] Type and timing of available funding  
-- [[x]] Required security authorizations (e.g., ATO)  
-- [[ ]] Number of vendors on the GSA Schedule
-[[?]] Constraints often involve time, funding, approvals, and readiness factors—not just vendor history.
+**Question:**  
+During a code challenge, a top vendor assumed and proposed the use of a commercial cloud service that doesn’t meet FedRAMP requirements. What should the agency do next?
 
-4. Why is treating constraint discovery like a checklist instead of a conversation risky?
+- [ ] Eliminate the vendor immediately  
+- [ ] Ask for a new full proposal  
+- [x] Open discussions to clarify assumptions and allow revision  
+- [ ] Ignore it and continue
 
-- [[ ]] It wastes too much time  
-- [[ ]] It makes it harder to meet compliance rules  
-- [[x]] It misses the trust- and alignment-building benefits of team discussion  
-- [[ ]] It only works if legal is in the room
-[[?]] Collaborative conversations surface practical insights and build alignment across stakeholders.
+> Correct! Clarifying assumptions and offering revision opportunities supports a fair and informed evaluation process.
 
-5. Scenario
+3\. Match the Terms 
 
-You’re planning a new digital services procurement. During early discovery, you learn that:
-- Your COR has limited availability  
-- Contractor onboarding takes 60–90 days  
-- There’s a possibility of reengineering outdated business processes
+Match each term to its correct definition by writing the matching letter next to the number.
 
-What should you do? (Choose the BEST option)
+**Terms:**
 
-- [[ ]] Ignore these constraints—they’ll sort themselves out during evaluation.  
-- [[ ]] Choose a firm-fixed-price contract now and adjust if needed.
-- [[x]] Build in a phased approach, include delivery support services, and engage leadership on process flexibility.  
-- [[ ]] Push back the solicitation until these constraints are no longer relevant.
-[[?]] A phased, proactive approach reduces risk and supports agility as constraints are addressed over time.
-
-6. Which of the following benefits come from defining constraints early? *(Select all that apply.)*
-
-- [[x]] Ability to shape a realistic, achievable strategy  
-- [[x]] Avoid mid-process surprises or delays  
-- [[ ]] Ensure you award to the lowest bidder  
-- [[x]] Support more defensible, mission-aligned decisions  
-- [[x]] Strengthen relationships with policy, legal, and IT teams
-[[?]] Early constraint discovery builds stronger strategies and relationships—critical for digital service acquisitions.
+1. Clarifications  
+2. Communications  
+3. Negotiations  
+4. Best Value
 
 
+**Definitions:**
+
+A. Discussions that allow vendors to revise proposals
+B. Limited exchanges to fix minor errors (no proposal changes)
+C. Offer that provides the greatest advantage based on price and technical merit
+D. Exchanges to determine competitive range (no proposal changes)
+
+
+**Your Answers:**
+
+1. ---
+
+2. ---
+
+3. ---
+
+4. ---
+
+Correct Answers:
+
+1. B
+
+2. D
+
+3. A
+
+4. C
+
+4\. Reflection Prompt
+
+**Think of a time when expectations weren’t clear during a collaboration:**
+
+- What happened as a result?  
+- How might early communication or negotiation have helped?
+
+*Your response:*  *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
+
+5\. Select All That Apply
+
+**What are the benefits of negotiating early in digital services procurements?**
+
+- [x] Prevents misunderstandings  
+- [ ] Automatically reduces price  
+- [x] Builds vendor trust  
+- [x] Helps clarify technical assumptions  
+- [ ] Avoids needing any evaluation
+
+> Correct! Early negotiation builds shared understanding and helps align expectations.
+
+6\. Short Answer – Reflection
+
+**Prompt:**  
+Your team is preparing for negotiations. Based on what you’ve learned, name *two things* the team should do before the session.
+
+Your Response:
+
+1\.  *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
+
+2\.  *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
 
 Question 1
