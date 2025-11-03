@@ -24,8 +24,6 @@ During a code challenge, a top vendor assumed and proposed the use of a commerci
 
 3\. Match the Terms
 
-### 3. Match the Terms
-
 Match each term to its correct definition by selecting the correct letter for each number.
 
 1. Clarifications  
