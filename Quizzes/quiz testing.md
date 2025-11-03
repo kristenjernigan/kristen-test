@@ -1,81 +1,55 @@
 # Quiz Testing
 
-1\. True or False
+1\. Multiple Choice
 
-**Statement:**  
-In digital service acquisitions, it’s usually a waste of time to open negotiations with vendors early in the process.
+**Which of the following best describes the role of a government team in a multi-vendor digital services environment?**  
+*(Select one)*
 
-- [[ ]] True  
-- [[x]] False
-[[?]] Early negotiations help clarify assumptions, build trust, and shape stronger outcomes.
+- [[ ]] Enforcing strict competition between vendors  
+- [[ ]] Monitoring each vendor individually with no coordination  
+- [[x]] Acting as a Delivery Marketplace Architect to support shared outcomes  
+- [[ ]] Leaving vendors to figure things out on their own
 
-2\. Scenario-based multiple choice
-
-Choose the best response. 
-
-**Question:**  
-During a code challenge, a top vendor assumed and proposed the use of a commercial cloud service that doesn’t meet FedRAMP requirements. What should the agency do next?
-
-- [[ ]] Eliminate the vendor immediately  
-- [[ ]] Ask for a new full proposal  
-- [[x]] Open discussions to clarify assumptions and allow revision  
-- [[ ]] Ignore it and continue
-[[?]] Clarifying assumptions and offering revision opportunities supports a fair and informed evaluation process.
-
-3\. Match the terms
-
-Match each term to its correct definition by selecting the correct letter for each number.
-
-1. Clarifications  
-2. Communications  
-3. Negotiations  
-4. Best Value
-
-A. Discussions that allow vendors to revise proposals <br>
-B. Limited exchanges to fix minor errors (no proposal changes)<br>
-C. Offer that provides the greatest advantage based on price and technical merit<br>
-D. Exchanges to determine competitive range (no proposal changes)<br>
-
-- [[A] [B] [C] [D]]
-- [ ( ) (X) ( ) ( ) ]  1. Clarifications 
-- [ ( ) ( ) ( ) (X) ]  2. Communications
-- [ (X) ( ) ( ) ( ) ]  3. Negotiations
-- [ ( ) ( ) (X) ( ) ]  4. Best Value
-[[?]]Think about the purpose of each interaction in the procurement process.  <br>- *Clarifications* are meant to fix small errors without changing proposals.  <br> - *Communications* help determine who is in the competitive range. <br> - *Negotiations* allow vendors to revise and improve their proposals.  <br> - *Best Value* is about selecting the offer that balances price and quality for the greatest overall advantage.  
-
-
-
-
-4\. Select all that apply
-
-**What are the benefits of negotiating early in digital services procurements?**
-
-Choose all that apply.
-
-- [[x]] Prevents misunderstandings  
-- [[ ]] Automatically reduces price  
-- [[x]] Builds vendor trust  
-- [[x]] Helps clarify technical assumptions  
-- [[ ]] Avoids needing any evaluation
-[[?]] Early negotiation builds shared understanding and helps align expectations.
-
+> Correct! The government’s role in a multi-vendor environment is to act as a Delivery Marketplace Architect—supporting coordination, reducing duplication, and guiding teams toward shared outcomes.
 
 ---
 
-The following two questions are for your personal reflection. No input is necessary here. 
+2\. Select All That Apply
 
-5\. Reflection prompt
+**What is the purpose of joint retrospectives and quarterly program reviews (QPRs)?**  
+*(Select all that apply)*
 
-**Think of a time when expectations weren’t clear during a collaboration:**
+- [[ ]] Track individual vendor contract compliance  
+- [[x]] Surface system-wide blockers and risks  
+- [[x]] Co-design improvements across teams  
+- [[x]] Celebrate delivery wins and analyze what went wrong
 
-- What happened as a result?  
-- How might early communication or negotiation have helped?
+> Correct! QPRs and retrospectives help identify systemic risks, improve coordination, and reflect on both successes and failures—driving continuous improvement.
 
+---
 
-6\. Reflection prompt
-**Prompt:**  
+3\. Multiple Choice
 
-Your team is preparing for negotiations. Based on what you’ve learned, name *two things* the team should do before the session.
+**Which of the following is a good example of *vendor self-organization*?**  
+*(Select one)*
+
+- [[ ]] Waiting for the CO to assign tasks  
+- [[x]] Forming a working group to align on shared DevOps tools  
+- [[ ]] Competing with other vendors to block their progress  
+- [[ ]] Ignoring dependencies between contracts
+
+> Correct! Self-organization happens when vendors proactively coordinate, like forming a working group to align on DevOps tools and practices.
+
+---
+
+4\. Short Answer
+
+**Imagine you are reviewing a recurring delivery issue that impacted three vendors. What’s the best next step?**
+
+*Your Response:*  
+
+[[solution                                                        ]]
+[[?]]**Example of one acceptable answer:** “Host a joint root cause analysis to understand what happened and agree on system-level improvements.”  **Tip:** Look for systemic issues rather than blaming individual vendors. Consider facilitating a retrospective or coordination session to resolve blockers collaboratively.
 
 
 
