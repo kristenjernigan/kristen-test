@@ -1,55 +1,31 @@
 # Quiz Testing
 
-1\. Multiple Choice
+1\. True or False
 
-**Which of the following best describes the role of a government team in a multi-vendor digital services environment?**  
-*(Select one)*
+**When preparing for a difficult conversation, it is best to clarify the problem in your own mind first and do a little research to understand the opposing mindset.**
 
-- [[ ]] Enforcing strict competition between vendors  
-- [[ ]] Monitoring each vendor individually with no coordination  
-- [[x]] Acting as a Delivery Marketplace Architect to support shared outcomes  
-- [[ ]] Leaving vendors to figure things out on their own
-
-> Correct! The government’s role in a multi-vendor environment is to act as a Delivery Marketplace Architect—supporting coordination, reducing duplication, and guiding teams toward shared outcomes.
+- [[x]] True  
+- [[ ]] False  
+[[?]] Clarifying your thinking and considering the other person’s mindset helps you prepare for a more thoughtful, productive conversation.
 
 ---
 
-2\. Select All That Apply
+2\. Scenario-Based Multiple Choice
 
-**What is the purpose of joint retrospectives and quarterly program reviews (QPRs)?**  
-*(Select all that apply)*
+**Scenario:**  
+You're working with a team in your agency that is planning for government/end user reviews of a software product. The team has traditionally held 2–3 day sessions after six months of development to collect feedback all at once. You want to explore whether a more iterative approach would be better, given the difficulty of gathering users for long reviews and the benefits of earlier feedback.
 
-- [[ ]] Track individual vendor contract compliance  
-- [[x]] Surface system-wide blockers and risks  
-- [[x]] Co-design improvements across teams  
-- [[x]] Celebrate delivery wins and analyze what went wrong
+You have a good working relationship with the team lead. She responds to your suggestion by saying:
 
-> Correct! QPRs and retrospectives help identify systemic risks, improve coordination, and reflect on both successes and failures—driving continuous improvement.
+>*“I really appreciate all you’re doing to transform how we do business around here, but we don’t have time or money to break up our reviews and hold them more iteratively. We only have a year period of performance, and our budget is tight! I know what the Agile Manifesto says about the importance of customer collaboration—and we’re doing it! But we’re also adapting it to the realities of the government and our agency.”*
 
----
+**How should you respond?**
 
-3\. Multiple Choice
+- [[x]] “Can you talk me through your past experiences with the 2-3 day sessions and how they’ve been used to gather customer feedback? What has worked well? What hasn’t?”  
+- [[ ]] “I have a great case study from another agency about how they implemented this approach and mitigated risk. It really can work in government!”  
+- [[ ]] “I understand where you’re coming from. It doesn’t sound like this is the time to try something different, but please keep it in mind for future efforts.”  
+[[?]] This response invites collaboration and reflection without being confrontational. It acknowledges the team’s experience and opens a productive dialogue.
 
-**Which of the following is a good example of *vendor self-organization*?**  
-*(Select one)*
-
-- [[ ]] Waiting for the CO to assign tasks  
-- [[x]] Forming a working group to align on shared DevOps tools  
-- [[ ]] Competing with other vendors to block their progress  
-- [[ ]] Ignoring dependencies between contracts
-
-> Correct! Self-organization happens when vendors proactively coordinate, like forming a working group to align on DevOps tools and practices.
-
----
-
-4\. Short Answer
-
-**Imagine you are reviewing a recurring delivery issue that impacted three vendors. What’s the best next step?**
-
-*Your Response:*  
-
-[[solution                                                        ]]
-[[?]]**Example of one acceptable answer:** “Host a joint root cause analysis to understand what happened and agree on system-level improvements.”  **Tip:** Look for systemic issues rather than blaming individual vendors. Consider facilitating a retrospective or coordination session to resolve blockers collaboratively.
 
 
 
